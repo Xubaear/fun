@@ -80,10 +80,10 @@ const Home = () => {
                 <h1 className='my-6 md:my-10 text-lg md:text-2xl font-bold bg-cyan-900 p-3 md:p-4 rounded-2xl'>ম্যাছ ম্যানেজার <span className='text-xl md:text-3xl text-red-600'> জারিফ</span> </h1>
                 <div className='flex  justify-evenly items-center font-bold gap-4 md:gap-0'>
                     <p className='text-xl md:text-3xl bg-[#6c6867] items-center p-3 md:p-4 rounded-2xl text-center w-full md:w-auto'>বিএনপি <br />
-                        <span className='mt-2 block'>১৫৫ থেকে ১৬৫</span>
+                        <span className='mt-2 block'>১৮০ থেকে ২০০</span>
                     </p>
                     <p className='text-xl md:text-3xl bg-[#6c6867] items-center p-3 md:p-4 rounded-2xl text-center w-full md:w-auto'>জামাত<br />
-                        <span className='mt-2 block'>১১৫ থেকে ১২৫</span>
+                        <span className='mt-2 block'>৯০ থেকে ১০০</span>
                     </p>
                 </div>
             </div>
@@ -116,7 +116,7 @@ const Home = () => {
 
 
             <div className='mt-10 md:mt-20 mb-10'>
-                <h1 className='my-6 md:my-10 text-lg md:text-2xl font-bold bg-cyan-900 p-3 md:p-4 rounded-2xl'>ম্যাসের একমাত্র নিরপেক্ষ মানুষ <span className='text-xl md:text-3xl text-red-600'> জুবায়ের</span></h1>
+                <h1 className='my-6 md:my-10 text-lg md:text-2xl font-bold bg-cyan-900 p-3 md:p-4 rounded-2xl'>ম্যাছের একমাত্র নিরপেক্ষ মানুষ <span className='text-xl md:text-3xl text-red-600'> জুবায়ের</span></h1>
                 <div className='flex  justify-evenly items-center font-bold gap-4 md:gap-0'>
                     <p className='text-xl md:text-3xl bg-[#6c6867] items-center p-3 md:p-4 rounded-2xl text-center w-full md:w-auto'>বিএনপি <br />
                         <span className='mt-2 block'>১৮০ থেকে ১২০</span>
