@@ -10,7 +10,7 @@ const Home = () => {
             
             
             <div className="relative z-10 p-4 md:p-10 text-white">
-                <h1 className="text-2xl md:text-4xl font-bold text-center leading-tight">আসন্ন <span className='text-red-500'>১৩তম জাতীয় সংসদ নির্বাচন ২০২৫</span> উপলক্ষে <br />ম্যাছের সকল বর্ডারের ভোটের প্রেডিকশন !</h1>
+                <h1 className="text-2xl md:text-4xl font-bold text-center leading-tight">আসন্ন <span className='text-red-500'>১৩তম জাতীয় সংসদ নির্বাচন ২০২৫</span> উপলক্ষে <br />রাজু ছাত্রবাসের সকল বর্ডারের ভোটের প্রেডিকশন !</h1>
 
                 <div className='mt-10 md:mt-20 flex justify-center items-center' >
                     <img src={img} className='h-auto w-full max-w-md md:max-w-none md:h-100 md:w-180 rounded-2xl' alt="" />
